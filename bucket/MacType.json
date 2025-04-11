@@ -1,6 +1,6 @@
 {
     "##": "The MacType installer from snowie2000/mactype release.",
-    "version": "2025.1.17",
+    "version": "2025.4.11",
     "description": "Provides better font rendering for Windows.",
     "homepage": "https://mactype.net",
     "license": "GPL-3.0-or-later",
@@ -12,8 +12,8 @@
         "- Run in Service Mode (recommended)",
         "- Add `HookChildProcesses=0` to profile; see: https://github.com/snowie2000/mactype/wiki/HookChildProcesses"
     ],
-    "url": "https://github.com/snowie2000/mactype/releases/download/v1.2025.1.17/MacTypeInstaller_2025.1.17.exe",
-    "hash": "26939c0a36a83472719641c09466c9531811c026b860603c8c346dbb486e423f",
+    "url": "https://github.com/snowie2000/mactype/releases/download/v1.2025.4.11/MacTypeInstaller_2025.4.11.exe",
+    "hash": "9b93d905473b4732cfbc3b1d511e6b6f38f153e9bb576bbc96b2267ac780812f",
     "innosetup": true,
     "uninstaller": {
         "script": [
